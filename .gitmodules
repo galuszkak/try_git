@@ -1,0 +1,3 @@
+[submodule "pycloudinary"]
+	path = pycloudinary
+	url = https://github.com/galuszkak/pycloudinary.git
